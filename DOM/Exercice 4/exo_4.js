@@ -18,7 +18,6 @@ input.addEventListener('input', function(event) {
     countryList.innerHTML = '';
     
     const filteredData = data.filter(item => 
-        item.toLowerCase().includes(query) || 
         item.toLowerCase().includes(query)
     );
 
