@@ -1,0 +1,14 @@
+#space {
+    background-image: url("../Exercice3/img/space.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 1000px;
+    position: relative;
+}
+
+.x-wing {
+    position: absolute;
+    top: 850px;
+    left: 400px;
+    width: 75px;
+}

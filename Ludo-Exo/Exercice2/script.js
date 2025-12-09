@@ -3,6 +3,6 @@ const allBody = document.querySelector("body")
 
 
     btn.addEventListener('click', () => {
-        allBody.classList.toggle('switch');
-        btn.classList.toggle('switch');
+        allBody.classList.toggle('patate');
+        btn.classList.toggle('patate');
     })
