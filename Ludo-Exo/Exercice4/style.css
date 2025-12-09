@@ -18,6 +18,7 @@
 h1 {
     width: 100%;
     text-align: center;
+    transition: 1s ease;
 }
 
 p {
@@ -64,7 +65,21 @@ input[type="range"]:focus {
     outline: none;
 }
 
-.color {
+.colorR {
+    display: flex;
+    gap: 5rem;
+    border: 1px solid black;
+    width: 100%;
+}
+
+.colorG {
+    display: flex;
+    gap: 5rem;
+    border: 1px solid black;
+    width: 100%;
+}
+
+.colorB {
     display: flex;
     gap: 5rem;
     border: 1px solid black;
