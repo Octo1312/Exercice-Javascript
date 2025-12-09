@@ -1,0 +1,13 @@
+.btn {
+    background-color: white;
+    color: black;
+    padding: 0.5rem;
+    position: relative;
+    top: 150px;
+    left: 150px;
+}
+
+.switch {
+    background-color: black;
+    color: white;
+}
